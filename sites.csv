@@ -1,26 +1,27 @@
 Order;URL;Label;Description;Filters;Image Url
-10005;https://map.project44.ca/;🌍 Project '44;Explore the liberation of Europe through detailed Second World War battle maps, unit positions, and Canadian Army war diaries.;interactive_websites,top_resources,war_diaries;
+10005;https://map.project44.ca/;🌍 ⭐Project '44;Explore the liberation of Europe through detailed Second World War battle maps, unit positions, and Canadian Army war diaries.;interactive_websites,top_resources,war_diaries;
 10001;https://projectathena.ca/;📖 Project Athena;Share and explore stories of Canadian service in Afghanistan, creating a collaborative digital history of Canada’s longest war.;interactive_websites;
 10002;https://dieppe.project44.ca/;⚔️ Dieppe Raid Interactive Map;Relive Operation Jubilee with an animated web map that captures the pivotal Allied assault on the French port of Dieppe.;interactive_websites;
 10003;https://www.project44.ca/bomber-command;✈️ Bomber Command Interactive Map;Discover the missions of 419 Squadron and the heroic contributions of Canadian airmen in RAF Bomber Command.;interactive_websites;
 10000;https://www.project44.ca/;🗺️ Top WW2 Interactive Maps;Uncover Canada’s military history through immersive maps covering D-Day, the Italian Campaign, Hong Kong, Kiska, and more.;interactive_websites;
 2003;https://store.project44.ca/collections/dday-maps/products/juno-beach;🏖️ Maps of Juno Beach;Trace Canada’s D-Day legacy with detailed maps highlighting troop movements, key landmarks, and the Normandy landings.;merch,maps;
-2000;https://store.project44.ca/collections/dday-maps;📜 D-Day Maps;Relive the strategies and sacrifices that defined the Normandy invasion.;merch, maps;
+2000;https://store.project44.ca/collections/dday-maps;📜 D-Day Maps;Relive the strategies and sacrifices that defined the Normandy invasion.;merch,maps;
 2001;https://store.project44.ca/collections/market-garden/products/operation-market-garden;🚀 Market Garden Maps;Follow the bold Allied plans of Operation Market Garden with comprehensive maps.;merch,maps;
 2002;https://store.project44.ca/collections/store-maps;🌍 WW2 Maps;Explore the global stories of the Second World War through precise and engaging cartography.;merch,maps;
 1005;https://www.warmuseum.ca;🏛️ Canadian War Museum;Dive into Canada’s rich military history at one of the world’s most respected war museums.;top_museums;
-1000;https://www.junobeach.org/;📚 Juno Beach Centre;Visit this Canadian cultural centre in Normandy to honour the 45,000 Canadians who gave their lives during the Second World War.;top_museums,top_resources;
+1000;https://www.junobeach.org/;📚 ⭐Juno Beach Centre;Visit this Canadian cultural centre in Normandy to honour the 45,000 Canadians who gave their lives during the Second World War.;top_museums,top_resources;
 1003;https://themilitarymuseums.ca/;🎖️ The Military Museums;Discover eight museums under one roof, showcasing the Army, Navy, Air Force, and regimental histories of Alberta.;top_museums;
 1004;https://www.dieppe-operationjubilee-19aout1942.fr/;⚓ Dieppe Raid Museum;Step back in time at this museum dedicated to the 1942 Raid on Dieppe, featuring artifacts and exhibits in a historic theatre.;top_museums;
-9005;https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?SearchIn_1=FindingAidNumber&SearchInText_1=24-60&DataSource=Archives%7cFonAndCol&num=25&start=0&enviro=prod&OnlineCode=1;📖Cdn Army War Diaries - LAC;Explore every Canadian Army war diary online through Library and Archives Canada.;top_resources,war_diaries;
-9004;https://heritage.canadiana.ca/view/oocihm.lac_mikan_133700;📖Cdn Army War Diaries - Canadiana;Access microfilmed Canadian Army war diaries, now available online.;top_resources,war_diaries;
-9003;https://recherche-collection-search.bac-lac.gc.ca/eng/help/kia;📂 Second World War Service Files;Search service files of war dead from 1939–1947 for detailed historical records.;top_resources;
-9002;https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?q=RG24-E-7&DataSource=Archives|FonAndCol&;📜 RCAF ORB - LAC;Dive into Royal Canadian Air Force (RCAF) operational record books for mission insights.;top_resources;
-9001;https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?q=RG24&DataSource=Archives|FonAndCol&;📁 RG24 - LAC;Explore Record Group 24 for comprehensive Canadian Forces records and research tools.;top_resources;
-9000;https://ww2talk.com/index.php;🔍 WW2Talk Forum;Join a vibrant community of Second World War enthusiasts sharing research, photos, and insights.;top_resources;
+9005;https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?SearchIn_1=FindingAidNumber&SearchInText_1=24-60&DataSource=Archives%7cFonAndCol&num=25&start=0&enviro=prod&OnlineCode=1;📖⭐Cdn Army War Diaries - LAC;Explore every Canadian Army war diary online through Library and Archives Canada.;top_resources,war_diaries;
+9004;https://heritage.canadiana.ca/view/oocihm.lac_mikan_133700;📖⭐Cdn Army War Diaries - Canadiana;Access microfilmed Canadian Army war diaries, now available online.;top_resources,war_diaries;
+9003;https://recherche-collection-search.bac-lac.gc.ca/eng/help/kia;📂 ⭐Second World War Service Files;Search service files of war dead from 1939–1947 for detailed historical records.;top_resources;
+9002;https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?q=RG24-E-7&DataSource=Archives|FonAndCol&;📜 ⭐RCAF ORB - LAC;Dive into Royal Canadian Air Force (RCAF) operational record books for mission insights.;top_resources;
+9001;https://recherche-collection-search.bac-lac.gc.ca/eng/Home/Search?q=RG24&DataSource=Archives|FonAndCol&;📁 ⭐RG24 - LAC;Explore Record Group 24 for comprehensive Canadian Forces records and research tools.;top_resources;
+9000;https://ww2talk.com/index.php;🔍 ⭐WW2Talk Forum;Join a vibrant community of Second World War enthusiasts sharing research, photos, and insights.;top_resources;
 1002;https://www.iwm.org.uk/;🏛️ Imperial War Museums;Explore one of the most comprehensive collections of Second World War artifacts and archives in the world.;top_museums;
 999;https://x.com/project4_4;🐦 Project '44 Twitter;Follow us on Twitter for real-time updates, Second World War history insights, and behind-the-scenes looks at our mapping projects.;top_social_media,twitter;
 998;https://www.facebook.com/Canada1944;📘 Project '44 Facebook;Join the conversation on Facebook to explore maps, history, and discussions about Canada’s role in the Second World War.;top_social_media,facebook;
 909;https://www.facebook.com/JunoBeachCentre;📘 Juno Beach Centre Facebook;Connect with the Juno Beach Centre on Facebook to learn about Canada’s D-Day contributions and ongoing remembrance efforts.;top_social_media,facebook;
-908;https://www.facebook.com/warmuseum;📘 CWM Facebook;Discover the Canadian War Museum on Facebook for exhibitions, stories, and updates on Canada’s military history.;top_social_media, facebook;
+908;https://www.facebook.com/warmuseum;📘 CWM Facebook;Discover the Canadian War Museum on Facebook for exhibitions, stories, and updates on Canada’s military history.;top_social_media,facebook;
 997;https://discord.gg/bzWEuc6JJv;🎮 Project '44 Discord Community;Join our Discord community to connect with history enthusiasts, explore Second World War mapping projects, and collaborate on historical research.;top_social_media,discord;
+
