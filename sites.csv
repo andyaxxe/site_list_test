@@ -1,10 +1,10 @@
 Order;URL;Label;Description;Filters;Image Url
 10005;https://map.project44.ca/;Project '44;Explore the liberation of Europe through detailed Second World War battle maps, unit positions, and Canadian Army war diaries.;top_resources,interactive_websites,war_diaries;
-10001;https://projectathena.ca/;Project Athena;Share and explore stories of Canadian service in Afghanistan, creating a collaborative digital history of Canada’s longest war.;interactive_websites;
-10002;https://dieppe.project44.ca/;Dieppe Raid Interactive Map;Relive Operation Jubilee with an animated web map that captures the pivotal Allied assault on the French port of Dieppe.;interactive_websites;
-10003;https://www.project44.ca/bomber-command;Bomber Command Interactive Map;Discover the missions of 419 Squadron and the heroic contributions of Canadian airmen in RAF Bomber Command.;interactive_websites;
-10000;https://www.project44.ca/;Top WW2 Interactive Maps;Uncover Canada’s military history through immersive maps covering D-Day, the Italian Campaign, Hong Kong, Kiska, and more.;interactive_websites;
-10006;https://digital.lib.hkbu.edu.hk/japanese_occupation_of_hongkong/;Battle of Hong Kong: 1941;Battle of Hong Kong 1941” uses geographic information systems (GIS) to uncover the battle history through an interactive map and a searchable database of British military installations in HK during the Second World War.;interactive_websites,war_diaries;
+10004;https://projectathena.ca/;Project Athena;Share and explore stories of Canadian service in Afghanistan, creating a collaborative digital history of Canada’s longest war.;interactive_websites;
+10003;https://dieppe.project44.ca/;Dieppe Raid Interactive Map;Relive Operation Jubilee with an animated web map that captures the pivotal Allied assault on the French port of Dieppe.;interactive_websites;
+10002;https://www.project44.ca/bomber-command;Bomber Command Interactive Map;Discover the missions of 419 Squadron and the heroic contributions of Canadian airmen in RAF Bomber Command.;interactive_websites;
+10001;https://www.project44.ca/;Top WW2 Interactive Maps;Uncover Canada’s military history through immersive maps covering D-Day, the Italian Campaign, Hong Kong, Kiska, and more.;interactive_websites;
+10000;https://digital.lib.hkbu.edu.hk/japanese_occupation_of_hongkong/;Battle of Hong Kong: 1941;Battle of Hong Kong 1941” uses geographic information systems (GIS) to uncover the battle history through an interactive map and a searchable database of British military installations in HK during the Second World War.;interactive_websites,war_diaries;
 2003;https://store.project44.ca/collections/dday-maps/products/juno-beach;Maps of Juno Beach;Trace Canada’s D-Day legacy with detailed maps highlighting troop movements, key landmarks, and the Normandy landings.;merch,maps;
 2000;https://store.project44.ca/collections/dday-maps;D-Day Maps;Relive the strategies and sacrifices that defined the Normandy invasion.;merch,maps;
 2001;https://store.project44.ca/collections/market-garden/products/operation-market-garden;Market Garden Maps;Follow the bold Allied plans of Operation Market Garden with comprehensive maps.;merch,maps;
@@ -41,6 +41,7 @@ Order;URL;Label;Description;Filters;Image Url
 983;https://x.com/rgpoulussen;RG Poulussen;Dedicated to keeping the memory of the Second World War alive with daily #OTD posts highlighting key historical moments.;social_media,twitter;
 9011;https://x.com/BritishArmyWDs;British Army War Diaries;Access British Army war diary copying services for researchers, historians, and authors unable to visit the UK’s National Archives. DM for details!;social_media,twitter,researchers;
 9010;https://archive.org/details/rceme;RCEME Archives;Discover the Corps of Royal Canadian Electrical and Mechanical Engineers' history through a curated collection of detailed documents.;resources
+
 
 
 
