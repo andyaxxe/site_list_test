@@ -1,4 +1,5 @@
 Order;URL;Label;Description;Filters;Image Url
+10006;https://digital.lib.hkbu.edu.hk/japanese_occupation_of_hongkong/;Battle of Hong Kong: 1941;Battle of Hong Kong 1941” uses geographic information systems (GIS) to uncover the battle history through an interactive map and a searchable database of British military installations in HK during the Second World War.;interactive_websites,war_diaries;
 10005;https://map.project44.ca/;Project '44;Explore the liberation of Europe through detailed Second World War battle maps, unit positions, and Canadian Army war diaries.;top_resources,interactive_websites,war_diaries;
 10001;https://projectathena.ca/;Project Athena;Share and explore stories of Canadian service in Afghanistan, creating a collaborative digital history of Canada’s longest war.;interactive_websites;
 10002;https://dieppe.project44.ca/;Dieppe Raid Interactive Map;Relive Operation Jubilee with an animated web map that captures the pivotal Allied assault on the French port of Dieppe.;interactive_websites;
@@ -25,6 +26,7 @@ Order;URL;Label;Description;Filters;Image Url
 988;https://www.facebook.com/warmuseum;CWM Facebook;Discover the Canadian War Museum on Facebook for exhibitions, stories, and updates on Canada’s military history.;social_media,facebook;
 997;https://discord.gg/bzWEuc6JJv;Project '44 Discord Community;Join our Discord community to connect with history enthusiasts, explore Second World War mapping projects, and collaborate on historical research.;social_media,discord;
 986;https://x.com/RLitwiller;Roger Litwiller;Follow Canadian naval historian and author Roger Litwiller for daily posts on Canada’s maritime heritage and naval history.;social_media,twitter,authours;
+295;https://www.youtube.com/@MontemayorChannel;Montemayor;Interactive WW2 map videos covering a wide range of topics;top_youtube_channels;
 299;https://www.youtube.com/watch?v=UoynTOzLD28&list=PLErys4h2oiuzlPyPJIhIRqHIXVer3sdts;Operations Room;Experience pivotal battles in history with detailed animated battle maps and expert storytelling.;top_youtube_channels;
 296;https://www.youtube.com/@WW2TV;WW2TV;Learn from the world’s top military historians with live discussions, battlefield explanations, and in-depth lectures.;top_youtube_channels;
 297;https://www.youtube.com/@OTDMilitaryHistory;OTD Military History;Delve into military history with Brad St.Croix, PhD, through historical footage, expert interviews, and deep analyses.;top_youtube_channels;
@@ -39,4 +41,5 @@ Order;URL;Label;Description;Filters;Image Url
 983;https://x.com/rgpoulussen;RG Poulussen;Dedicated to keeping the memory of the Second World War alive with daily #OTD posts highlighting key historical moments.;social_media,twitter;
 9011;https://x.com/BritishArmyWDs;British Army War Diaries;Access British Army war diary copying services for researchers, historians, and authors unable to visit the UK’s National Archives. DM for details!;social_media,twitter,researchers;
 9010;https://archive.org/details/rceme;RCEME Archives;Discover the Corps of Royal Canadian Electrical and Mechanical Engineers' history through a curated collection of detailed documents.;resources
+
 
